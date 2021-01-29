@@ -1,0 +1,13 @@
+h1 {
+  color: rgb(51, 167, 221);
+  font-size: 8vh;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-left: 28vw;
+  margin-right: 28vw;
+  margin-top: 8vh;
+}
